@@ -17,6 +17,6 @@ class ExampleUnitTest {
 
     @Test
     fun proof_sum(){
-        assertEquals(8,6+2)
+        assertEquals(8,6+9)
     }
 }
